@@ -1,0 +1,32 @@
+{
+  "opinions": [
+    {
+      "id": 1747234257729,
+      "votes": 6,
+      "userName": "Mohamed",
+      "title": "useFormStatus",
+      "body": "The useFormStatus hook is used to get the form status of the current form. It returns an object with useful information like \"pending\""
+    },
+    {
+      "id": 1747233450276,
+      "votes": 0,
+      "userName": "Mohamed",
+      "title": "Form Action in React",
+      "body": "Using async with the form action function tells react to wait for the promise that is returned by this action function to resolve before it internally marks this form as submitted"
+    },
+    {
+      "id": 1,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "Do yourself a favor and learn React!",
+      "body": "React is an amazing JavaScript library!\n\nDespite all it's shortcomings.",
+      "votes": 0
+    },
+    {
+      "id": 2,
+      "userName": "Maximilian Schwarzmüller",
+      "title": "React has more depth than you might first think!",
+      "body": "React is a great library to learn, but it's not just about the basics. Dive deeper!\nFor example with this course!",
+      "votes": 0
+    }
+  ]
+}
